@@ -17,7 +17,7 @@ module.exports = {
     static: {
       directory: path.resolve(__dirname, "dist"),
     },
-    port: https://main.d1i672ch2f8w4n.amplifyapp.com/,
+    port: 3000,
     open: true,
     hot: true,
     compress: true,
